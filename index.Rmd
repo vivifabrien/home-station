@@ -8,6 +8,8 @@ links:
     url: "https://github.com/vivifabrien"
   - label: Email
     url: "mailto:vivienfabry@yahoo.de"
+  - label: CV
+    url: ""
 output:
   postcards::trestles
 ---

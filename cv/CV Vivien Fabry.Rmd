@@ -1,0 +1,94 @@
+---
+name: Vivien
+surname: Fabry
+position: "Curriculum Vitae"
+address: "Moenchhaldenstr. 21, 70191 Stuttgart, Germany"
+phone: +49 1768227536
+#www: 
+email: "vivienfabry@yahoo.de"
+#twitter: vivifabrien
+#github: vivifabrien
+#linkedin: mariecurie
+date: "`r format(Sys.time(), '%B %Y')`"
+output: vitae::moderncv
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Personal
+
+```{r}
+library(tibble)
+tribble(
+  ~ Info, ~ Answer,
+  "Place and Date of Birth", "02.11.1998, Karlsruhe, Germany"
+) %>% 
+  brief_entries(Answer, Info)
+```
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Vocational Grammar School in Social Science (Sozialwissenschaftliches Berufliches Gymnasium)", "09.2015 - 07.2018", "Elisabeth-Selbert-Schule", "Karlsruhe, Germany",
+  "B.A. Social Sciences", "10.2018 - Present", "University of Stuttgart", "Stuttgart, Germany",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Practical Experiences
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Research Assistant", "11.2019 - 08.2020", "Project Future Education Midwifery, Baden-Wuerttemberg Cooperative State University Stuttgart", "Stuttgart, Germany",
+  "Personal Tutor", "10.2020 - Present", "University of Stuttgart", "Stuttgart, Germany",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+
+# Additional Experiences
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Member of the Faculty Council of the Faculty of Economics and Social Sciences", "2019 - Present", "University of Stuttgart", "Stuttgart, Germany",
+  "Member of the Student Parliament", "2019 - Present", "University of Stuttgart", "Stuttgart, Germany",
+  "Board Member", "2020 - Present", "Funding Organization for Political and Social Sciences, FOEPS e.V", "Stuttgart, Germany",
+  "Chair of the Student Council, Social Sciences", "2020 - Present", "University of Stuttgart", "Stuttgart, Germany",
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+\newpage
+
+# Languages
+
+```{r}
+library(tibble)
+tribble(
+  ~ Year,  ~ Where, 
+  "German, English", "Fluent", 
+  "Spanish", "Conversational",
+) %>% 
+  brief_entries(Year, Where)
+```
+
+# Computer Skills
+```{r}
+library(tibble)
+tribble(
+  ~ Year,  ~ Where, 
+  "SPSS, R, Microsoft Office", "Advanced",
+  "Python, SQL, Java, MAXQDA", "Intermediate"
+) %>% 
+  brief_entries(Year, Where)
+```
