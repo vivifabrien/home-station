@@ -1,0 +1,33 @@
+---
+title: "Vivien Fabry"
+image: "img/p6Lki5Qb_400x400.png"
+links:
+  - label: Twitter
+    url: "https://twitter.com/ViviFabrien"
+  - label: GitHub
+    url: "https://github.com/vivifabrien"
+  - label: Email
+    url: "mailto:vivienfabry@yahoo.de"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Lorem ipsum.
+
+## Education
+
+**Massachusetts Institute of Technology** | Cambridge, MA
+
+Ph.D. in Computer Science | September 2009 - May 2014
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Computer Science | September 2005 - May 2009
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
