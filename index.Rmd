@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:vivienfabry@yahoo.de"
   - label: CV
-    url: ""
+    url: "https://docs.google.com/viewer?url=https://github.com/vivifabrien/home-station/raw/master/cv/CV-Vivien-Fabry.pdf"
 output:
   postcards::trestles
 ---
