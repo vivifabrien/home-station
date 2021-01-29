@@ -16,20 +16,17 @@ output:
  
 ## Bio
 
-Lorem ipsum.
+Hello, my name is Vivien Fabry and I am a Social Science student at the University of Stuttgart.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Stuttgart** | Stuttgart, Germany
 
-Ph.D. in Computer Science | September 2009 - May 2014
+B.A. Social Sciences | October 2018 - Present
 
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Baden-Wuerttemberg Cooperative State University Stuttgart** | Research Assistant, Project Future Education Midwifery | June 2019 - August 2020
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**University of Stuttgart** | Personal Tutor in Social Sciences | October 2020 - February 2021
