@@ -1,32 +1,21 @@
 ---
 title: "Vivien Fabry"
-image: "img/p6Lki5Qb_400x400.png"
+image: "img/ica2023_pic.jpg"
 links:
   - label: Twitter
     url: "https://twitter.com/ViviFabrien"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/vivien-fabry-a49552205/"
   - label: GitHub
     url: "https://github.com/vivifabrien"
   - label: Email
-    url: "mailto:vivienfabry@yahoo.de"
+    url: "mailto:v.fabry@fu-berlin.de"
   - label: CV
-    url: "https://docs.google.com/viewer?url=https://github.com/vivifabrien/home-station/raw/master/cv/CV-Vivien-Fabry.pdf"
+    url: "https://docs.google.com/viewer?url=https://github.com/vivifabrien/home-station/raw/master/cv/CVVivienFabry.pdf"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Hello, my name is Vivien Fabry and I am a Social Science student at the University of Stuttgart.
-
-## Education
-
-**University of Stuttgart** | Stuttgart, Germany
-
-B.A. Social Sciences | October 2018 - Present
-
-
-## Experience
-
-**Baden-Wuerttemberg Cooperative State University Stuttgart** | Research Assistant, Project Future Education Midwifery | November 2019 - August 2020
-
-**University of Stuttgart** | Personal Tutor in Social Sciences | October 2020 - February 2021
+Hello, my name is Vivien Fabry and I am a PhD student in the political and social science faculty at the Free University in Berlin focusing on computational methods, political behavior and disability politics. 
