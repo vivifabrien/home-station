@@ -18,4 +18,4 @@ output:
  
 ## Bio
 
-Hello, my name is Vivien Fabry and I am a PhD student in the political and social science faculty at the Free University in Berlin focusing on computational methods, political behavior and disability politics. 
+Hello, my name is Vivien Fabry and I am a Ph.D. candidate and research associate in the political and social science faculty at the Free University in Berlin. Before I got my M.Sc. in Social Sciences at University of Amsterdam. My research focuses computational methods, political behavior and disability politics. 
